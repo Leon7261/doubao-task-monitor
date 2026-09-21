@@ -1,6 +1,6 @@
 {
- "latest": "data/progress-20260921-115740.json",
- "updated_at": "2026-09-21 11:57:40",
- "total_steps": 322,
- "status": "running"
+ "latest": "snap/latest-20260921-1206.json",
+ "updated_at": "2026-09-21 12:06:00",
+ "total_steps": 361,
+ "status": "waiting"
 }
